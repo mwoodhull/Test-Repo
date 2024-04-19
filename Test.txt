@@ -1,15 +1,8 @@
 A haiku about Data Engineering
 
-I am not very good at haikus
+Starting from a scratch
 
-or data engineering
+I continue to work on haikus
 
-data engineer and genius poet
-
-I am learning how to git
-
-so that i can code
-
-I am not sticking to Haiku rules because I am the boss
 
 By Matthew Woodhull - a genius poet
