@@ -1,5 +1,9 @@
 A haiku about Data Engineering
 
+I am not very good at haikus
+
+or data engineering
+
 data engineer
 
 I am learning how to git
