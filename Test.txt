@@ -1,9 +1,9 @@
 A haiku for my test
 
-This is a test
+This is just a test
 
-I am learning to git
+I am learning how to git
 
-So I can be a data engineer
+data engineer
 
 By Matthew Woodhull
