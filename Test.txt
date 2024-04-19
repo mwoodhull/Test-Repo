@@ -1,5 +1,5 @@
 A haiku about Data Engineering
 
-Starting from scratch
+Starting from a scratch
 
 By Matthew Woodhull
